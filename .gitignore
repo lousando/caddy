@@ -1,2 +1,5 @@
 # ignore VSCode options
 .vscode
+
+# ignore idea stuff
+.idea
